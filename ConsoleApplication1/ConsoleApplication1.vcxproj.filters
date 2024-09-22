@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="easytxt2dic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
